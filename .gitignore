@@ -1,0 +1,33 @@
+# Laravel specific files
+/aula3/vendor
+/aula3/node_modules
+/aula3/public/storage
+/aula3/public/hot
+/aula3/public/mix-manifest.json
+/aula3/public/*.key
+/aula3/storage/*.key
+/aula3/storage/app/public
+/aula3/storage/framework/cache/data
+/aula3/storage/logs
+/aula3/storage/app/*.sqlite
+/aula3/storage/app/*.sqlite-journal
+
+# Environment variables
+/aula3/.env
+/aula3/.env.backup
+/aula3/.env.local
+/aula3/.env.development
+/aula3/.env.testing
+/aula3/.env.staging
+/aula3/.env.production
+/aula3/.env.example
+
+# IDE files
+/aula3/.idea
+/aula3/.vscode
+/aula3/_ide_helper.php
+/aula3/.phpstorm.meta.php
+
+# OS generated files
+.DS_Store
+Thumbs.db
